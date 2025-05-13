@@ -30,6 +30,9 @@ This project is a data analysis and visualization tool that tracks COVID-19 tren
 ## How to Run the Project
 
 1. **Clone or download** the repository to your local machine.
+   ```bash
+      ```bash
+   https://github.com/koscark/Python-Assignment-8/blob/main/covid19_analysis.ipynb
 2. Ensure you have Python installed.
 3. Install required libraries using pip:
    ```bash
